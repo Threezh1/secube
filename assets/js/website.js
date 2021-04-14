@@ -28,8 +28,8 @@ var website_text =
 常用网址|常用网址|Github|https://github.com/|GitHub is where people build software|https://github.com//favicon.ico
 常用网址|常用网址|谷歌翻译|https://translate.google.cn/|比较好用的翻译工具|https://translate.google.cn/favicon.ico
 常用网址|常用网址|三之博客|https://threezh1.com/|三之的博客|https://threezh1.com/favicon.ico
-安全工具|安全工具|ctf编码|http://ctf.ssleye.com/|CTFcode为CTF比赛人员、程序员提供20多种常用编码|http://ctf.ssleye.com/static/ctf_favicon.ico
-安全工具|安全工具|ceye|http://ceye.io/|Monitor service for security testing|http://ceye.io/static/ceye.icon
+安全工具|安全工具|ctf编码|http://ctf.ssleye.com/|CTFcode为CTF比赛人员、程序员提供20多种常用编码|https://ctf.ssleye.com/static/ctf_favicon.ico
+安全工具|安全工具|ceye|http://ceye.io/|Monitor service for security testing|https://ceye.io/static/ceye.icon
 安全工具|安全工具|regex101|https://regex101.com/|Regular expression tester with syntax highlighting|https://regex101.com/favicon.ico
 安全工具|安全工具|regexper|https://regexper.com/|Regular expression visualizer using railroad diagrams|https://regexper.com/favicon.ico
 安全论坛|安全论坛|先知论坛|https://xz.aliyun.com/|先知安全技术社区|https://xz.aliyun.com/static/icon/favicon.ico
