@@ -129,7 +129,7 @@ Date.prototype.format = function(fmt) {
     return fmt;
 }
 
-var requestURL = "http://129.211.93.28:3302/api/extract";
+var requestURL = "https://129.211.93.28:8080/api/extract";
 var info = {};
 info["type"] = "TIME";
 info["keyword"] = new Date().format("yyyy-MM-dd");
