@@ -47,18 +47,35 @@ Date.prototype.format = function(fmt) {
 // 定义页面网址
 var website_text =
 `
-常用网址|常用网址|BiliBili|https://www.bilibili.com/|国内知名的视频弹幕网站|https://www.bilibili.com/favicon.ico
-常用网址|常用网址|Github|https://github.com/|GitHub is where people build software|https://github.com//favicon.ico
-常用网址|常用网址|谷歌翻译|https://translate.google.cn/|比较好用的翻译工具|https://translate.google.cn/favicon.ico
-常用网址|常用网址|三之博客|https://threezh1.com/|三之的博客|https://threezh1.com/favicon.ico
-安全工具|安全工具|ctf编码|http://ctf.ssleye.com/|CTFcode为CTF比赛人员、程序员提供20多种常用编码|https://ctf.ssleye.com/static/ctf_favicon.ico
-安全工具|安全工具|ceye|http://ceye.io/|Monitor service for security testing|https://ceye.io/static/ceye.icon
-安全工具|安全工具|regex101|https://regex101.com/|Regular expression tester with syntax highlighting|https://regex101.com/favicon.ico
-安全工具|安全工具|regexper|https://regexper.com/|Regular expression visualizer using railroad diagrams|https://regexper.com/favicon.ico
-安全论坛|安全论坛|先知论坛|https://xz.aliyun.com/|先知安全技术社区|https://xz.aliyun.com/static/icon/favicon.ico
-安全论坛|安全论坛|安全客|http://www.anquanke.com/|安全资讯平台|https://p0.ssl.qhimg.com/t01b2a1553a7bc927cb.ico?v=1.2
-安全论坛|安全论坛|Seebug|https://paper.seebug.org/|Paper - 安全技术精粹|https://paper.seebug.org/static/images/favicon.ico
-安全论坛|安全论坛|知识星球|https://wx.zsxq.com/|知识星球是创作者连接铁杆粉丝，实现知识变现的工具。|https://wx.zsxq.com/dweb2/assets/images/favicon_32.ico
+常用推荐|常用|BiliBili|https://www.bilibili.com/|国内知名的视频弹幕网站|https://www.bilibili.com/favicon.ico
+常用推荐|常用|Github|https://github.com/|GitHub is where people build software|https://github.com//favicon.ico
+常用推荐|常用|谷歌翻译|https://translate.google.cn/|比较好用的翻译工具|https://translate.google.cn/favicon.ico
+常用推荐|常用|三之博客|https://threezh1.com/|三之的博客|https://threezh1.com/favicon.ico
+常用推荐|交流社区|先知安全技术社区|https://xz.aliyun.com/|先知安全技术社区|./assets/images/logos/xianzhi.ico
+常用推荐|交流社区|FreeBuf|https://www.freebuf.com/|FreeBuf-关注黑客与极客|./assets/images/logos/freebuf.jpg
+常用推荐|交流社区|安全客|https://www.anquanke.com/|安全客-有思想的安全新媒体|./assets/images/logos/anquanke.ico
+常用推荐|交流社区|土司论坛|https://www.t00ls.net/|T00LS-低调求发展|./assets/images/logos/t00ls.ico
+常用推荐|交流社区|洞见微信聚合|http://wechat.doonsec.com/|洞见微信聚合|./assets/images/logos/wechat.doonsec.com.ico
+常用推荐|交流社区|Seebug|https://paper.seebug.org/|Paper-专注分享精品文章|./assets/images/logos/paper.ico
+常用推荐|在线工具|CTF编码|http://ctf.ssleye.com/|CTFcode为CTF比赛人员、程序员提供20多种常用编码|./assets/images/logos/online_tools/ssleye.ico
+常用推荐|在线工具|onlineTools|https://emn178.github.io/online-tools/index.html|在线解码工具|./assets/images/favicon.png
+常用推荐|在线工具|xssor|http://xssor.io/|Hack with JavaScript|./assets/images/logos/online_tools/xssor.ico
+常用推荐|在线工具|cmd5|https://www.cmd5.com/|md5加解密|./assets/images/logos/online_tools/cmd5.ico
+常用推荐|在线工具|jwt|https://jwt.io/|jwt加解密|./assets/images/logos/online_tools/jwt.svg
+常用推荐|在线工具|json在线解析|https://c.runoob.com/front-end/53|JSON 在线解析|./assets/images/logos/online_tools/runoob_json.ico
+常用推荐|在线工具|reverse_shell|https://www.shentoushi.top/tools/misc/reverse_shell.php|Reverse shell cheatsheet|./assets/images/favicon.png
+常用推荐|在线工具|Reverse Shell Generator|https://weibell.github.io/reverse-shell-generator/|Reverse Shell Generator|./assets/images/favicon.png
+常用推荐|在线工具|IP查询|http://www.cip.cc/|提供免费的IP查询服务|./assets/images/favicon.png
+常用推荐|在线工具|ping检测|http://ping.chinaz.com/|多个地点Ping服务器|./assets/images/logos/online_tools/chinaz.ico
+常用推荐|在线工具|nip.io|https://nip.io/|Dead simple wildcard DNS for any IP Address|./assets/images/favicon.png
+常用推荐|在线工具|xip.io|http://xip.io/|Dead simple wildcard DNS for any IP Address|./assets/images/favicon.png
+常用推荐|在线工具|ceye|http://ceye.io/|Monitor service for security testing|./assets/images/favicon.png
+常用推荐|在线工具|regex101|https://regex101.com/|Regular expression tester with syntax highlighting|./assets/images/logos/online_tools/regex101.ico
+常用推荐|在线工具|regexper|regexper|Regular expression visualizer using railroad diagrams|./assets/images/logos/online_tools/regexper.ico
+常用推荐|在线工具|processon.com|https://www.processon.com/diagrams|免费在线作图工具|./assets/images/logos/online_tools/pocesson.ico
+常用推荐|在线工具|carbon|https://carbon.now.sh/|生成代码图片|./assets/images/logos/online_tools/carbon.ico
+常用推荐|在线工具|临时邮箱|http://24mail.chacuo.net/|临时邮箱|./assets/images/favicon.png
+
 `
 
 // 把网址信息转为json
@@ -85,11 +102,11 @@ for (i in websites) {
 // 根据json生成html
 var foot_element = document.querySelector("#main-content > h4:nth-child(4)");
 for (i in websites_json) {
-    var kind_title_h4_element = document.createElement("h4");
-    kind_title_h4_element.setAttribute("class", "text-gray");
-    kind_title_h4_element.innerHTML = `<br /><i class="linecons-tag" style="margin-right: 7px;" id="` + i +`"></i>` + i;
-    foot_element.before(kind_title_h4_element);
     for (j in websites_json[i]) {
+        var kind_title_h4_element = document.createElement("h4");
+        kind_title_h4_element.setAttribute("class", "text-gray");
+        kind_title_h4_element.innerHTML = `<br /><i class="linecons-tag" style="margin-right: 7px;" id="` + j +`"></i>` + j;
+        foot_element.before(kind_title_h4_element);
         var siteinfo = websites_json[i][j];
         var row_element = document.createElement("div");
         row_element.setAttribute("class", "row");
